@@ -5,4 +5,4 @@ repositories:
 releases:
   - name: kubernetes-dashboard
     chart: kubernetes-dashboard/kubernetes-dashboard
-    version: 5.0.4
+    version: 5.0.5
